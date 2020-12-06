@@ -70,7 +70,8 @@ Tugas : Pertemuan 10
 
 **FLowChart:**
 
--
+![11_Praktikum 6](Gambar/15_FlowchartPraktikum6.jpg)
+
 Berikut tampilan hasil code program setelah di Run :
 
     Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
